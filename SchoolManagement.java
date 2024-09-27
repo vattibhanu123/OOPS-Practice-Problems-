@@ -1,11 +1,4 @@
-// Problem Statement:
-// Design a system to manage students and teachers in a school.
 
-// Classes:
-// Base Class: Person (attributes like name and age)
-// Subclasses: Student (attributes like studentId and grade), Teacher (attributes like employeeId and subject)
-// Methods:
-// A method to display details for each person.
 
 class Person{
     private String name;
