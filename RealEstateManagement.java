@@ -1,11 +1,4 @@
-// Problem Statement:
-// Design a system to manage real estate listings.
 
-// Classes:
-// Base Class: Property (attributes like address and price)
-// Subclasses: House, Apartment, Commercial (with specific attributes)
-// Methods:
-// A method to display property details and calculate total value based on market trends.
 
 class Property{
     private String address;
